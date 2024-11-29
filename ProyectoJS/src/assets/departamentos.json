@@ -1,0 +1,27 @@
+[
+    {
+        "id": 10,
+        "name": "Logística",
+        "ubicacion": "Madrid"
+    }, 
+    {
+        "id": 20,
+        "name": "Recursos Humanos",
+        "ubicacion": "Bilbao"
+    }, 
+    {
+        "id": 30,
+        "name": "Venta",
+        "ubicacion": "Málaga"
+    }, 
+    {
+        "id": 40,
+        "name": "Finanzas",
+        "ubicacion": "Barcelona"
+    }, 
+    {
+        "id": 50,
+        "name": "Marketing",
+        "ubicacion": "Soria"
+    }    
+]
